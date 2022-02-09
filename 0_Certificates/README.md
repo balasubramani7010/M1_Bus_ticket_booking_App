@@ -8,4 +8,4 @@
 ![github](https://user-images.githubusercontent.com/60250791/152694699-771a10d4-f134-4ef9-8394-34fad7fcfaef.png)
 
 # HACKEREARTH
-![hackerearth](https://user-images.githubusercontent.com/60250791/152694716-e3d00930-68ff-4f27-8655-bb9a6463277c.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/60250791/153229116-f8d361fa-2f29-40e1-9bfd-e00c442bdde6.png)
