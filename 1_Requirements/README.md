@@ -4,8 +4,14 @@ The aim of the project is to book tickets,cancel tickets in railway lines.It wil
 # SWOT ANALYSIS
 ## Strength
 The main menu which is made up of:
+
+
     -BOOK A TICKET: one can book a ticket with this tab using name,phone number,address.
+    
+    
     -CANCEL A TICKET: one can cancel a ticket using mobile number.
+    
+    
     -ADMIN: admin can add a train,cancel a train,update the timing.
 ## Weakness 
 Anyone can cancel the ticket using another persons phone number.
