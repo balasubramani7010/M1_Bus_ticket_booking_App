@@ -1,5 +1,5 @@
 # Introduction
-The aim of the project is to book tickets,cancel tickets in bus lines.It will be very useful for the daily commutes.
+The aim of the project is to book tickets,cancel tickets in railway lines.It will be very useful for the daily commutes.
 
 # SWOT ANALYSIS
 ## Strength
@@ -11,7 +11,7 @@ The main menu which is made up of:
    -CANCEL A TICKET: one can cancel a ticket using mobile number.
     
     
-   -USER: user can give a name and password to enter the platform
+   -AVAILABILITY: user can check the availability of the seats.
    
    -EXIT: by clicking this one can exit
 ## Weakness 
@@ -22,15 +22,15 @@ user can view the information of the ticket.
 there are no threats.
 # 5W's and 1'H
 ## Who:
-Everyone can use the bus ticket booking.
+Everyone can use the train ticket booking.
 ## What:
-Bus ticket booking is mainly concerned to book the ticket and cancel the ticket of bus.
+train ticket booking is mainly concerned to book the ticket and cancel the ticket of train.
 ## When:
 TBD
 ## Where:
 User can access this application using any C compiler.
 ## Why:
-The system helps in booking the bus tickets for a person.
+The system helps in booking the train tickets for a person.
 ## How:
 Implementation is done using C language.
 
@@ -38,8 +38,8 @@ Implementation is done using C language.
 ## High Level Requirements:
 -- ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
-HLR1| admin can add bus | Implemented
-HLR2| User can book bus| Implemented
+HLR1| admin can add train | Implemented
+HLR2| User can book train| Implemented
 HLR3| User shall view information of booked tickets| Implemented
 HLR4| admin can view the booked tickets| Implemented
 
@@ -48,6 +48,6 @@ HLR4| admin can view the booked tickets| Implemented
 ##  Low level Requirements:
 -- ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
-LLR1| admin can add bus  | Implemented
+LLR1| admin can add train  | Implemented
 LLR2| admin can search information | Implemented
 
