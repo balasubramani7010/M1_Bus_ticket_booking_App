@@ -11,5 +11,5 @@
 
 |*Test ID|HL_ID|Description|Exp input|Exp Output|Actual Output*|
 |---|---|---|---|---|---|
-|L_01|	H_04|	customer can check the speed |	2|	50km/h|	50km/h
+|L_01|	H_04|	customer can check the speed |	2s|	50km/h|	50km/h
 |L_02|	H_01|	customer can book the tickets|	name,ph no|	booked|	booked
