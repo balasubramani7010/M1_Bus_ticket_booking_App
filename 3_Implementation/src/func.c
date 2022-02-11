@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include"func.h"
+#include"unity.h"
 int first = 5, second = 5, third = 5;
 int time;
 struct node
