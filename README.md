@@ -9,6 +9,8 @@ Repository to implement the booking of train ticket
 
 ## code grade
 
+![quality grade](https://api.codiga.io/project/31215/status/svg)
+
 
 
 
