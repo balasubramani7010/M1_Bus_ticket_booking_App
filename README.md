@@ -3,6 +3,18 @@ Repository to implement the booking of train ticket
 
 
 
+## code quality score
+
+![code quality score](https://api.codiga.io/project/31215/score/svg)
+
+## code grade
+
+![quality grade](https://api.codiga.io/project/31215/status/svg)
+
+
+
+
+
 
 ## Folder Structure
 Folder             | Description
