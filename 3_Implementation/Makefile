@@ -9,9 +9,9 @@ LDFLAGS =
 
 # Makefile settings - Can be customized.
 APPNAME = myapp
-EXT = .c
-SRCDIR = .
-OBJDIR = .
+EXT =.c
+SRCDIR =E:\act\M1_Train_ticket_booking_App\3_implementation\src
+OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
 SRC = $(wildcard $(SRCDIR)/*$(EXT))
