@@ -15,6 +15,10 @@ Repository to implement the booking of train ticket
 
 [![UnitTesting](https://github.com/balasubramani7010/M1_Train_ticket_booking_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/balasubramani7010/M1_Train_ticket_booking_App/actions/workflows/c-cpp.yml)
 
+## cppcheck
+
+[![cpp](https://github.com/balasubramani7010/M1_Train_ticket_booking_App/actions/workflows/c-cpp2.yml/badge.svg)](https://github.com/balasubramani7010/M1_Train_ticket_booking_App/actions/workflows/c-cpp2.yml)
+
 
 
 
