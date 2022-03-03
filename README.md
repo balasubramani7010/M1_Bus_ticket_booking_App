@@ -11,6 +11,10 @@ Repository to implement the booking of train ticket
 
 ![quality grade](https://api.codiga.io/project/31215/status/svg)
 
+## Unit test
+
+[![UnitTesting](https://github.com/balasubramani7010/M1_Train_ticket_booking_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/balasubramani7010/M1_Train_ticket_booking_App/actions/workflows/c-cpp.yml)
+
 
 
 
